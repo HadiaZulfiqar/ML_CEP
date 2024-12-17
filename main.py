@@ -1,3 +1,6 @@
+# DATE: 17th december 2024
+
+
 import os
 import cv2
 import easyocr
